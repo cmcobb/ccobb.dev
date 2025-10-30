@@ -1042,13 +1042,15 @@ a {
     left: -1rem;
   }
 }
-.cid-uvXxe1LjQ7 {
-  background-image: url("/assets/images/cameronspeaking-1-2000x1126.jpeg");
+.cid-v18vA6SHOg {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/cameronspeaking-1-2000x978.jpg");
 }
-.cid-uvXxe1LjQ7 .mbr-fallback-image.disabled {
+.cid-v18vA6SHOg .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uvXxe1LjQ7 .mbr-fallback-image {
+.cid-v18vA6SHOg .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1057,53 +1059,25 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uvXxe1LjQ7 .icons-media-container {
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  padding-top: 4rem;
-}
-.cid-uvXxe1LjQ7 .icons-media-container .mbr-iconfont {
-  font-size: 96px;
-  color: #ffffff;
-}
-.cid-uvXxe1LjQ7 .icons-media-container .icon-block {
-  padding-bottom: 1rem;
-}
-.cid-uvXxe1LjQ7 .mbr-text {
-  color: #ffffff;
-}
-.cid-uvXxe1LjQ7 .card {
-  padding-bottom: 1.5rem;
-}
-.cid-uvXxe1LjQ7 .card-wrapper {
-  min-height: 220px;
-  transition: all 0.3s;
-  border-radius: 4px;
-  padding: 1rem;
-  display: flex;
-  justify-content: center;
+.cid-v18vA6SHOg .row {
   align-items: center;
 }
-.cid-uvXxe1LjQ7 .card-wrapper .mbr-iconfont {
-  display: block;
-  font-size: 4rem;
-  color: #ffffff;
-  margin-bottom: 2rem;
+@media (max-width: 991px) {
+  .cid-v18vA6SHOg .image-wrapper {
+    padding: 1rem;
+  }
 }
-.cid-uvXxe1LjQ7 .card-wrapper .card-title {
-  color: #ffffff;
+@media (min-width: 992px) {
+  .cid-v18vA6SHOg .text-wrapper {
+    padding: 0 2rem;
+  }
 }
-.cid-uvXxe1LjQ7 H1 {
-  text-align: center;
+.cid-v18vA6SHOg .mbr-section-title {
+  color: #f5f4f5;
 }
-.cid-uvXxe1LjQ7 .mbr-text,
-.cid-uvXxe1LjQ7 .mbr-section-btn {
-  text-align: center;
+.cid-v18vA6SHOg .mbr-text,
+.cid-v18vA6SHOg .mbr-section-btn {
+  color: #f5f4f5;
 }
 .cid-uvXrNig6PS {
   padding-top: 6rem;
